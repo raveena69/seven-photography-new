@@ -23,21 +23,21 @@
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/galle/galle5.jpg"
+              src="/images/galle/galle5.jpg"
             />
           </div>
           <div class="w-1/2 p-1 md:p-2">
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/galle/galle6.jpg"
+              src="/images/galle/galle6.jpg"
             />
           </div>
           <div class="w-full p-1 md:p-2">
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/galle/galle3.jpg"
+              src="/images/galle/galle3.jpg"
             />
           </div>
         </div>
@@ -46,21 +46,21 @@
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/galle/galle8.jpg"
+              src="/images/galle/galle8.jpg"
             />
           </div>
           <div class="w-1/2 p-1 md:p-2">
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/galle/galle2.jpg"
+              src="/images/galle/galle2.jpg"
             />
           </div>
           <div class="w-1/2 p-1 md:p-2">
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/galle/galle4.jpg"
+              src="/images/galle/galle4.jpg"
             />
           </div>
         </div>

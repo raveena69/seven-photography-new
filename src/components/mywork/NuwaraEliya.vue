@@ -23,21 +23,21 @@
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/nuwara-eliya/nuwara-eliya2.jpg"
+              src="/images/nuwara-eliya/nuwara-eliya2.jpg"
             />
           </div>
           <div class="w-1/2 p-1 md:p-2">
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/nuwara-eliya/nuwara-eliya6.jpg"
+              src="/images/nuwara-eliya/nuwara-eliya6.jpg"
             />
           </div>
           <div class="w-1/2 p-1 md:p-2">
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/nuwara-eliya/nuwara-eliya7.jpg"
+              src="/images/nuwara-eliya/nuwara-eliya7.jpg"
             />
           </div>
         </div>
@@ -46,21 +46,21 @@
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/nuwara-eliya/nuwara-eliya3.jpg"
+              src="/images/nuwara-eliya/nuwara-eliya3.jpg"
             />
           </div>
           <div class="w-1/2 p-1 md:p-2">
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/nuwara-eliya/nuwara-eliya8.jpg"
+              src="/images/nuwara-eliya/nuwara-eliya8.jpg"
             />
           </div>
           <div class="w-full p-1 md:p-2">
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/nuwara-eliya/nuwara-eliya4.jpg"
+              src="/images/nuwara-eliya/nuwara-eliya4.jpg"
             />
           </div>
         </div>

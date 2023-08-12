@@ -19,21 +19,21 @@
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/personal-photography/friend7.jpg"
+              src="/images/personal-photography/friend7.jpg"
             />
           </div>
           <div class="w-1/2 p-1 md:p-2">
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/personal-photography/friend6.jpg"
+              src="/images/personal-photography/friend6.jpg"
             />
           </div>
           <div class="w-full p-1 md:p-2">
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/personal-photography/friend1.jpg"
+              src="/images/personal-photography/friend1.jpg"
             />
           </div>
         </div>
@@ -42,21 +42,21 @@
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/personal-photography/friend12.jpg"
+              src="/images/personal-photography/friend12.jpg"
             />
           </div>
           <div class="w-1/2 p-1 md:p-2">
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/personal-photography/friend11.jpg"
+              src="/images/personal-photography/friend11.jpg"
             />
           </div>
           <div class="w-1/2 p-1 md:p-2">
             <img
               alt="gallery"
               class="block h-full w-full rounded-lg object-cover object-center"
-              src="images/personal-photography/friend10.jpg"
+              src="/images/personal-photography/friend10.jpg"
             />
           </div>
         </div>
