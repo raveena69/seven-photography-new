@@ -3,7 +3,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  // base: '/vue-deploy-test/',
+  // base: '/seven-photography-new/',
   plugins: [vue()],
   // resolve: {
   //   "@": path.resolve(__dirname, "/src"),
