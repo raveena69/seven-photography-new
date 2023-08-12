@@ -72,7 +72,7 @@
           style="background-image: url('images/friend1.jpg')"
         ></div>
 
-        <h2 class="text-xl font-medium mt-4 mb-2 ml-0">Personal Photography</h2>
+        <h2 class="text-xl font-medium mt-4 mb-2 ml-0">Model Photography</h2>
 
         <p class="text-sm leading-6 place-content-center ml-0">
           Lorem ipsum dolor sit amet consectetur. Sit et tincidunt sagittis posuere.

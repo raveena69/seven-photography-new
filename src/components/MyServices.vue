@@ -42,7 +42,7 @@
           <p
             class="my-4 items-center font-normal text-{#1A1A1A} dark:text-gray-400 text-center"
           >
-            Wild Life <br />
+            Wildlife <br />
             Photography
           </p>
         </div>

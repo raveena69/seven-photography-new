@@ -5,19 +5,24 @@
         <p class="text-xs uppercase text-blue-600 font-semibold text-center">
           Contact us
         </p>
-        <h2 class="text-5xl mt-2 mb-8 text-white">tharushayasas7@gmail.com</h2>
+        <h2 class="text-2xl mt-2 mb-8 font-semibold text-white">+(94) 70 155 0547</h2>
+        <p
+          class="text-sm leading-6 place-content-center ml-0 text-white underline underline-offset-8 decoration-1"
+        >
+          Terms and Conditions Apply
+        </p>
       </div>
 
-      <div class="flex space-x-16 text-center mt-16">
+      <div class="flex space-x-16 text-center mt-8">
         <div class="w-1/12"></div>
 
         <div class="w-3/12">
-          <h2 class="text-md font-medium mt-4 mb-2 ml-0 text-white uppercase">Mobile</h2>
+          <h2 class="text-md font-medium mt-4 mb-2 ml-0 text-white uppercase">Email</h2>
 
           <p
             class="text-sm leading-6 place-content-center ml-0 text-white hover:underline decoration-1"
           >
-            +(94) 70 155 0547
+            tharushayasas7@gmail.com
           </p>
         </div>
 
@@ -26,11 +31,13 @@
 
           <a
             href="https://web.facebook.com/profile.php?id=100092010139641"
+            target="_blank"
             class="text-sm leading-6 place-content-center ml-0 mr-2 text-white hover:text-white hover:underline decoration-1"
             >Facebook,
           </a>
           <a
-            href="https://www.instagram.com/Seven_Photography_/?fbclid=IwAR2h-x6rD2RkmXSUGurr1cFe0JaytI1XO32fTZLNJrFYMTv1xhfljc9KzHA"
+            href="https://www.instagram.com/Seven_Photography_07/?fbclid=IwAR06GLC9kc53pF8VAEremzaVtlvpKIIUiT5VF3cjS2SPNjEYdXX51jd1yB0"
+            target="_blank"
             class="text-sm leading-6 place-content-center ml-0 text-white hover:text-white hover:underline decoration-1"
             >Instagram</a
           >
@@ -38,13 +45,13 @@
 
         <div class="w-3/12">
           <h2 class="text-md font-medium mt-4 mb-2 ml-0 uppercase text-white">
-            Location
+            Location based on
           </h2>
 
           <p
             class="text-sm leading-6 place-content-center ml-0 text-white hover:underline decoration-1"
           >
-            Sri Lanka
+            Colombo, Kandy, Galle, Matara
           </p>
         </div>
         <div class="w-1/12"></div>
