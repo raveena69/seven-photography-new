@@ -20,7 +20,7 @@
     <div class="flex mt-16">
       <div class="w-1/12"></div>
 
-      <div class="flex w-10/12 space-x-14">
+      <div class="flex w-10/12 lg:space-x-3">
         <!-- Card start -->
         <div
           class="basis-1/4 max-w-sm pt-8 pb-6 px-14 shadow-xl shadow-zinc-200 bg-white border border-gray-200 rounded-lg dark:bg-gray-800 dark:border-gray-700"

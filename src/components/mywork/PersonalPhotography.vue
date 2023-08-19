@@ -1,7 +1,7 @@
 <template>
   <div class="mt-24 mb-24">
     <div class="flex flex-col justify-center text-center">
-      <h2 class="text-5xl mt-2 mb-8">Personal Photography</h2>
+      <h2 class="text-5xl mt-2 mb-8">Model Photography</h2>
 
       <div class="flex">
         <div class="w-3/12"></div>

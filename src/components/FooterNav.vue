@@ -5,7 +5,13 @@
         <p class="text-xs uppercase text-blue-600 font-semibold text-center">
           Contact us
         </p>
-        <h2 class="text-2xl mt-2 mb-8 font-semibold text-white">+(94) 70 155 0547</h2>
+        <div class="flex justify-center items-center leading-3 text-white mb-8 mt-2">
+          <div class="">
+            <i class="fa fa-phone-square mr-3 text-white" aria-hidden="true"></i> |
+            <i class="fa fa-whatsapp mx-3 text-white" aria-hidden="true"></i>
+          </div>
+          <h2 class="text-2xl font-semibold ml-3 text-white">+(94) 70 155 0547</h2>
+        </div>
         <p
           class="text-sm leading-6 place-content-center ml-0 text-white underline underline-offset-8 decoration-1"
         >
@@ -28,13 +34,16 @@
 
         <div class="w-3/12">
           <h2 class="text-md font-medium mt-4 mb-2 ml-0 text-white uppercase">Social</h2>
-
+          <i class="fa fa-facebook-square mr-2 text-white" aria-hidden="true"></i>
           <a
             href="https://web.facebook.com/profile.php?id=100092010139641"
             target="_blank"
             class="text-sm leading-6 place-content-center ml-0 mr-2 text-white hover:text-white hover:underline decoration-1"
-            >Facebook,
+            >Facebook
+            <span class="mx-3">|</span>
           </a>
+
+          <i class="fa fa-instagram mr-2 text-white" aria-hidden="true"></i>
           <a
             href="https://www.instagram.com/Seven_Photography_07/?fbclid=IwAR06GLC9kc53pF8VAEremzaVtlvpKIIUiT5VF3cjS2SPNjEYdXX51jd1yB0"
             target="_blank"
